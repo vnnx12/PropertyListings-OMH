@@ -1,0 +1,16 @@
+.button-radio {
+    display: none;
+}
+.button-radio+label {
+    padding: 10px;
+    background-color: #F97316;
+    color: white;
+    border-radius: 6px;
+    margin: 0 10px 10px 0;
+    cursor: pointer;
+}
+.button-radio:checked+label {
+    background-color: transparent;
+    border: 1px solid  #F97316;
+    color:  #F97316;
+}
