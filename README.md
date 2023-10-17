@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Property List with Next.js
+This project showcases a property listing webpage built with Next.js. Properties can be displayed, sorted, and filtered by type. Users can also load more properties and scroll to the top with ease.
+
+## Features
+Display Properties: The main feature of the application is to display properties with their images, titles, descriptions, and prices.
+Filter by Type: Users can filter properties by type (e.g., Studio, 1 Bedroom, 2 Bedrooms, etc.).
+Sort by Price: Users can sort properties by price in ascending or descending order.
+Load More: A button allows users to load more properties, if available.
+Scroll to Top: A convenient button appears when the user scrolls down, allowing them to quickly return to the top of the page.
+Mobile Responsive: The application is responsive and adjusts its layout according to the screen size.
+
 ## Getting Started
 
 First, run the development server:
